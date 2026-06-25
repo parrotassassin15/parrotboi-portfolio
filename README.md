@@ -39,7 +39,6 @@ docker compose up --build
 │   └── init.sql
 └── www/
     ├── index.php          # main portfolio page
-    ├── contact.php        # contact form handler
     └── assets/
         ├── css/style.css
         └── js/main.js
