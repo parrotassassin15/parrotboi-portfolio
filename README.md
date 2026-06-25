@@ -53,4 +53,4 @@ docker compose up --build
 - Certifications: CRTID, eWPT, eCPPT, eJPT
 - Expanded skills grid across offensive security, tooling, cloud, RE, compliance, and more
 - Projects: Lorikeet Security Platform, Parrot CTFs, Parrot Recon, Micro Labs, and more
-- Contact section with direct social links
+- Social links in the footer (LinkedIn, GitHub, Instagram, TikTok, Keybase)

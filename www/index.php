@@ -41,7 +41,6 @@
         <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
         <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
         <li class="nav-item"><a class="nav-link" href="#cves">CVEs</a></li>
-        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
       </ul>
     </div>
   </div>
@@ -66,7 +65,7 @@
       </p>
       <div class="hero-cta mt-4">
         <a href="#experience" class="btn-trans-primary">View Experience</a>
-        <a href="#contact" class="btn-trans-outline"><span>Get In Touch</span></a>
+        <a href="https://lorikeetsecurity.com" target="_blank" rel="noopener" class="btn-trans-outline"><span>Lorikeet Security</span></a>
       </div>
     </div>
 
@@ -792,56 +791,6 @@
   </div>
 </section>
 
-<hr class="trans-stripe m-0">
-
-<!-- ─── Contact ───────────────────────────────────────────────────────────── -->
-<section id="contact">
-  <div class="container">
-    <div class="mb-5 reveal">
-      <span class="section-label">// contact</span>
-      <h2 class="section-title">Start a Conversation</h2>
-    </div>
-
-    <div class="contact-grid">
-
-      <div class="contact-info reveal">
-        <h3>Let's work together.</h3>
-        <p>
-          Available for penetration testing engagements, red team operations, security
-          consulting, speaking, and advisory roles. I read every message personally.
-        </p>
-
-        <div class="contact-links">
-          <a href="mailto:rwilke@lorikeetsecurity.com" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-solid fa-envelope"></i></div>
-            <span>rwilke@lorikeetsecurity.com</span>
-          </a>
-          <a href="https://www.linkedin.com/in/ryan-wilke-8299b71b2" target="_blank" rel="noopener" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-brands fa-linkedin-in"></i></div>
-            <span>linkedin.com/in/ryan-wilke-8299b71b2</span>
-          </a>
-          <a href="https://github.com/parrotassassin15" target="_blank" rel="noopener" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-brands fa-github"></i></div>
-            <span>github.com/parrotassassin15</span>
-          </a>
-          <a href="https://www.instagram.com/parrotassassin15/" target="_blank" rel="noopener" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-brands fa-instagram"></i></div>
-            <span>instagram.com/parrotassassin15</span>
-          </a>
-          <a href="https://www.tiktok.com/@parrotassassin15" target="_blank" rel="noopener" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-brands fa-tiktok"></i></div>
-            <span>tiktok.com/@parrotassassin15</span>
-          </a>
-          <a href="https://lorikeetsecurity.com" target="_blank" rel="noopener" class="contact-link-item">
-            <div class="contact-link-icon"><i class="fa-solid fa-shield-halved"></i></div>
-            <span>lorikeetsecurity.com</span>
-          </a>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</section>
 
 <!-- ─── Footer ────────────────────────────────────────────────────────────── -->
 <footer>
