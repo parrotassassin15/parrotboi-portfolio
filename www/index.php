@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Ryan Wilke — Cybersecurity Professional. CEO of Lorikeet Security. Penetration Tester, Red Team Operator, CTF Platform Architect, and Security Educator.">
+  <meta name="description" content="Ryan Wilke · Cybersecurity Professional. CEO of Lorikeet Security. Penetration Tester, Red Team Operator, CTF Platform Architect, and Security Educator.">
   <meta name="author" content="Ryan Wilke">
   <title>Ryan Wilke · Cybersecurity &amp; Red Team</title>
 
@@ -94,7 +94,7 @@
         <h2 class="section-title mb-4">Building security that actually matters.</h2>
         <p>
           I'm a <strong>cybersecurity professional and entrepreneur</strong> based in Kissimmee, FL.
-          In 2021 I founded what became <strong>Lorikeet Security</strong> — a full-service offensive
+          In 2021 I founded what became <strong>Lorikeet Security</strong>, a full-service offensive
           security firm delivering penetration testing, red team operations, compliance consulting,
           and hands-on security training.
         </p>
@@ -105,7 +105,7 @@
           My work spans web apps, APIs, thick clients, mobile, cloud (AWS), and everything between.
         </p>
         <p>
-          I believe the best security comes from deeply understanding how attackers think — which is
+          I believe the best security comes from deeply understanding how attackers think, which is
           why I've built <strong>50+ hands-on labs</strong>, authored professional certification
           programs, and keep competing in CTFs alongside the clients I protect.
         </p>
@@ -563,7 +563,7 @@
         <div class="project-icon-wrap"><i class="fa-solid fa-lock"></i></div>
         <div class="project-name">Lorikeet Security Platform</div>
         <div class="project-desc">
-          Full-stack cybersecurity SaaS built from the ground up — CTF event hosting,
+          Full-stack cybersecurity SaaS built from the ground up: CTF event hosting,
           on-demand lab provisioning, automated grading, team scoring, billing, and
           managed security service delivery (PTaaS / SOCaaS). Serves both training
           clients and enterprise security engagements.
@@ -587,7 +587,7 @@
         <div class="project-icon-wrap"><i class="fa-solid fa-flag"></i></div>
         <div class="project-name">Parrot CTFs</div>
         <div class="project-desc">
-          Built the Parrot CTFs platform from scratch — a full-stack cybersecurity
+          Built the Parrot CTFs platform from scratch: a full-stack cybersecurity
           training and competition platform hosting CTF events, vulnerable lab machines,
           and community challenges. Grew it from a solo project into a recognized platform
           in the security community before evolving it into Lorikeet Security.
@@ -692,7 +692,7 @@
     <div class="mb-5 reveal">
       <span class="section-label">// vulnerability research</span>
       <h2 class="section-title">CVEs Discovered</h2>
-      <p class="section-subtitle">16 CVEs assigned across FastNetMon Community Edition — covering memory corruption, command injection, authentication bypass, and more. Full write-up at <a href="https://lorikeetsecurity.com/blog" target="_blank" rel="noopener">lorikeetsecurity.com/blog</a>.</p>
+      <p class="section-subtitle">16 CVEs assigned across FastNetMon Community Edition, covering memory corruption, command injection, authentication bypass, and more. Full write-up at <a href="https://lorikeetsecurity.com/blog" target="_blank" rel="noopener">lorikeetsecurity.com/blog</a>.</p>
     </div>
 
     <div class="cve-target-label reveal">

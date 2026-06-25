@@ -426,11 +426,7 @@ section { padding: 5rem 0; }
 
 .about-text p strong { color: var(--text); }
 
-.about-stats {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-}
+.about-stats { width: 100%; }
 
 .stat-card {
   background: var(--bg-2);
