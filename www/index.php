@@ -116,13 +116,13 @@
           <div class="col-6">
             <div class="stat-card">
               <div class="stat-number">5+</div>
-              <div class="stat-label">Years Leading Lorikeet Security</div>
+              <div class="stat-label">Years as CEO</div>
             </div>
           </div>
           <div class="col-6">
             <div class="stat-card">
               <div class="stat-number">50+</div>
-              <div class="stat-label">Hands-On Labs Built</div>
+              <div class="stat-label">Labs Built</div>
             </div>
           </div>
           <div class="col-6">
@@ -134,13 +134,13 @@
           <div class="col-6">
             <div class="stat-card">
               <div class="stat-number">4</div>
-              <div class="stat-label">Industry Certifications</div>
+              <div class="stat-label">Certifications</div>
             </div>
           </div>
           <div class="col-6">
             <div class="stat-card">
               <div class="stat-number">16</div>
-              <div class="stat-label">CVEs Discovered</div>
+              <div class="stat-label">CVEs</div>
             </div>
           </div>
           <div class="col-6">
